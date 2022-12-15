@@ -1,5 +1,5 @@
 ### Hi, world. 👋
 
-- 🖥️ I’m currently leading multiple technical initiatives to architect, build and develop healthcare software systems to assist doctors, transplant programs and   researchers to improve the outcomes of patients and populations affected by chronic diseases.
+- 🖥️ I’m a freelance web & mobile app developer in Minneapolis. I help companies create websites & mobile apps, architect systems and offer guidance on their technology strategies. Some technology I’m liking right now: C#, .Net, React, React Native, Angular, JavaScript, SQL Server, MySQL, Python, Azure, AWS, High Charts.
 - 📫 How to reach me: [clintmcmahon@pm.me](mailto:clintcmcmahon@pm.me) / [@cwmcmhn](https://twitter.com/cwmcmhn)
 
